@@ -4,7 +4,6 @@ class Pessoa {
     nome;
     idade;
     altura;
-    //Injeção de dependências.
     constructor(nome, idade, altura) {
         this.nome = nome;
         this.idade = idade;
